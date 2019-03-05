@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Task_1_Sprint</string>
+    <string name="F_book">Find your book</string>
+    <string name="EntP">Enter £ Price</string>
+    <string name="buttonN">no</string>
+    <string name="buttonB">back</string>
+    <string name="buttonNx">next</string>
+    <string name="StepF">Sell your book</string>
+    <string name="scan">Scan your book</string>
+    <string name="m_list">Find your book</string>
+    <string name="option">choose</string>
+    <string name="edit_EB">Enter book title</string>
+    <string name="stepP">Choose you listing type</string>
+    <string name="stepPi">Listing length</string>
+    <string name="exit">exit</string>
+    <string name="Hint">Enter book title</string>
+    <string name="condition">Select book condition</string>
+    <string name="bISBN">Enter ISBN</string>
+    <string name="LocationP">Pickup Location</string>
+
+
+
+</resources>

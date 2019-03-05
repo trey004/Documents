@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/location1" android:title="Wilfred Brown"/>
+    <item android:id="@+id/location2" android:title="Library"/>
+    <item android:id="@+id/location3" android:title="Student Union"/>
+
+</menu>
